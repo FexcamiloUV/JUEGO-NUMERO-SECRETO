@@ -66,6 +66,6 @@ function reiniciarJuego(){
 
 condicionesIniciales();
 
-
+//UAAAAA
 
 
